@@ -1,5 +1,8 @@
 # Authentification avec GitHub OAuth API
 
+> à cloner a la racine de votre serveur web pour que l'adresse corresponde à localhost/oauth/index.php
+
+
 ![doc/logo.png](doc/logo.png)
 
 Dépôt pour découvrir l'authentification avec GitHub OAuth API.
