@@ -143,20 +143,6 @@ if(isset($accessToken))
     $output .= $user->displayAll();
 }
 
-echo "SESSION";
-var_dump($_SESSION);
-
-echo "<br>";
-echo "GET";
-
-var_dump($_GET);
-
-echo "<br>";
-echo "POST";
-var_dump($_POST);
-
-echo "<br>";
-
 
 
 ?>
